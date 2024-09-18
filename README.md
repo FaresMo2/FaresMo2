@@ -10,6 +10,9 @@ I'm Fares, a passionate Front-End Developer specializing in crafting dynamic, us
 * 🌐 NEXT.JS
 * 💻 HTML, CSS, JavaScript, TypeScript, SASS, Tailwind, Redux, Supabase
 
+## Portfolio
+[Portfolio](https://my-portfolio-ten-rho-69.vercel.app/)
+
 ## Examples of work
 <img src="https://github.com/FaresMo2/FaresMo2/blob/main/1679083748046.gif" width="300" />
 
