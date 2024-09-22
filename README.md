@@ -5,12 +5,12 @@
 
 I'm Fares, a passionate Front-End Developer specializing in crafting dynamic, user-focused web applications. Dive into my projects and see how I bring creative and technical skills together to build exceptional digital experiences using cutting-edge technologies like React, Next.js, and Tailwind CSS.
 
-## Skills
+# Skills
 * ⚛️ React
 * 🌐 NEXT.JS
 * 💻 HTML, CSS, JavaScript, TypeScript, SASS, Tailwind, Redux, Supabase
 
-## Portfolio
+# Portfolio
 [Portfolio](https://my-portfolio-ten-rho-69.vercel.app/)
 
 ## Examples of work
